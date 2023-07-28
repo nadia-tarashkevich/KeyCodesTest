@@ -11,6 +11,7 @@ import java.awt.event.KeyListener;
 public class KeyboardWindow {
     private JPanel contentPanel;
     private JTextField inputField;
+    private JScrollPane outputPane;
     private JTextPane outputField;
     private JButton clearButton;
     private JButton copyButton;
