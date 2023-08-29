@@ -74,6 +74,7 @@
             </constraints>
             <properties>
               <text value="Copy"/>
+              <toolTipText value="Very long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very longVery long tooltip very long" noi18n="true"/>
             </properties>
           </component>
           <component id="51ef5" class="javax.swing.JButton" binding="clearButton">

@@ -15,7 +15,8 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
     This plugin helps to understand the behaviour of the keyboard in IntelliJ platform.<br>
-    <em>To launch it, open "View | Tool windows | Dump Key Codes"</em>
+    <em>To launch it, open "View | Tool windows | Dump Key Codes"</em> <br>
+    It is not needed for general IDE usage. Support may ask you to install this plugin, if you have uncommon keyboard configuration.
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.
