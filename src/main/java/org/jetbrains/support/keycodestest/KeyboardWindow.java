@@ -15,7 +15,7 @@ public class KeyboardWindow {
     private JTextPane outputField;
     private JButton clearButton;
     private JButton copyButton;
-    private JScrollPane outputPane;
+    //private JScrollPane outputPane;
 
     KeyboardWindow() {
         /*Toolkit.getDefaultToolkit().addAWTEventListener(
